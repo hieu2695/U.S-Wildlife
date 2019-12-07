@@ -22,7 +22,7 @@ In this section, I scrape my data from U.S Wildlife & Fish Service website: http
 The data is retrieved from the search page: https://ecos.fws.gov/ecp0/reports/ad-hoc-species-report-input
 There is a problem that the url does not change when I selection more attributes for the table. Fortunately, I figured out a solution for this. More details are provided in my scraping notebook below.
 
-[Scraping Process] (https://github.com/hieu2695/U.S-Wildlife/blob/master/ScrapingProcess.md)
+[Scraping Process](https://github.com/hieu2695/U.S-Wildlife/blob/master/ScrapingProcess.md)
 
 
 ## Data Preprocessing
