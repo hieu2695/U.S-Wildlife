@@ -35,7 +35,7 @@ There are two main things I want to do:
 2. Extract the Year in the First Listed Date column.
 There are some minor issues with other columns which are also managed in this step.
 
-[Data Preprocessing](https://hieu2695.github.io/U.S-Wildlife/html/Preprocessing Data.html)
+[Data Preprocessing](https://hieu2695.github.io/U.S-Wildlife/html/PreprocessingData.html)
 
 ## Data Analysis
 
