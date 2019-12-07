@@ -18,8 +18,10 @@ This project presents data mining on United States Wildlife to identify which re
 
 ## Scraping the data
 
-In this section, I scrape my data from U.S Wildlife & Fish Service website: https://www.fws.gov/
-The data is retrieved from the search page: https://ecos.fws.gov/ecp0/reports/ad-hoc-species-report-input
+In this section, I scrape my data from U.S Wildlife & Fish Service website: https://www.fws.gov/.
+
+The data is retrieved from the search page: https://ecos.fws.gov/ecp0/reports/ad-hoc-species-report-input.
+
 There is a problem that the url does not change when I selection more attributes for the table. Fortunately, I figured out a solution for this. More details are provided in my scraping notebook below.
 
 [Scraping Process](https://github.com/hieu2695/U.S-Wildlife/blob/master/ScrapingProcess.md)
@@ -38,5 +40,9 @@ There are some minor issues with other columns which are also managed in this st
 ## Data Analysis
 
 [Data Analysis](https://github.com/hieu2695/U.S-Wildlife/blob/master/html/Analysis.html)
+
+This project does data analysis in two main aspects. At first, I figure out the U.S states with most endangered species. From the below graph, we can see that Hawaii and California are two states with highest number of species. Therefore, there should be wildlife conservation priorities on these areas.
+
+![Endangered Species Distribution](https://github.com/hieu2695/U.S-Wildlife/blob/master/Graph/States_en.png)
 
 
