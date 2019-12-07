@@ -24,7 +24,7 @@ The data is retrieved from the search page: https://ecos.fws.gov/ecp0/reports/ad
 
 There is a problem that the url does not change when I selection more attributes for the table. Fortunately, I figured out a solution for this. More details are provided in my scraping notebook below.
 
-[Scraping Process](https://hieu2695.github.io/U.S-Wildlife/Md/ScrapingProcess.md)
+[Scraping Process](https://hieu2695.github.io/U.S-Wildlife/html/ScrapingProcess.html)
 
 
 ## Data Preprocessing
@@ -35,7 +35,7 @@ There are two main things I want to do:
 2. Extract the Year in the First Listed Date column.
 There are some minor issues with other columns which are also managed in this step.
 
-[Data Preprocessing](https://hieu2695.github.io/U.S-Wildlife/Md/Preprocessing Data.md)
+[Data Preprocessing](https://hieu2695.github.io/U.S-Wildlife/html/Preprocessing Data.html)
 
 ## Data Analysis
 
