@@ -45,17 +45,17 @@ This project does data analysis about two main aspects.
 
 At first, I figure out the U.S states with most endangered species. From the below graph, we can see that Hawaii and California are two states with highest number of species. Therefore, there should be wildlife conservation priorities on these areas.
 
-![Endangered Species Distribution](https://github.com/hieu2695/U.S-Wildlife/blob/master/Graph/States_en.png)
+![Endangered Species Distribution](Graph/States_en.png)
 
 The next thing is to identify the species family that is at risk of extinction. I do some statistics about the families with most number of endangered species and figure out that Asteraceae is the plant families with most endagered species. 
 
 The animal families with most endangered species are Unionidae (a family of mussels), Cyprinidae (a family of freshwater fishes) and Hydrobiidae (a family of snails). These three animal classes are often the target of fishers since they provide many ingredients for human and are favorite resources in restaurants :).
 
-![Endangered Families](https://github.com/hieu2695/U.S-Wildlife/blob/master/Graph/Species_en.png)
+![Endangered Families](Graph/Species_all.png)
 
 I aslo create some graphs to see about the new discovered species in the United States in recent four decades. In general, during 1970s, there were many vertebrate species found in the United States. From the end of 1970s to 2000, more flowering plants species were found and successfully grown in the USA. In recent years, there have been fewer species discovered and most of them are animals.
 
-![Species Listing Time](https://github.com/hieu2695/U.S-Wildlife/blob/master/Graph/ListDate2.png)
+![Species Listing Time](Graph/ListDate2.png)
 
 
 # Key Findings
