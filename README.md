@@ -15,6 +15,8 @@ Since many species are at risk of extinction, it is extremely important to have 
 This project presents data mining on United States Wildlife to identify which regions need to be prioritized in conservation. In addition, the most endangered species family will be mentioned to understand which plants and animals should be the targets of protection.
 
 ---
+# Contents
+
 
 ## Scraping the data
 
